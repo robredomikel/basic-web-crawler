@@ -29,4 +29,3 @@ This publication consists on the crawling pipeline developed during the course '
 
 ## References
 
-
