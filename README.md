@@ -4,14 +4,14 @@ This publication consists on the crawling pipeline developed during the course '
 
 ## Table of contents
 
-- [Short description] (## Short description)
-- [What each function does] (## What each function does)
-	- [webCrawler] (### webCrawler)
-	- [gettextlist] (### gettextlist)
-	- [filecrawler] (### filecrawler)
-- [Necessary libraries] (### Necessary libraries)
-- [Short note about preprocessing each text] (## Short note about preprocessing each text)
-- [References] (## References)
+- [Short description] (#short-description)
+- [What each function does] (#what-each-function-does)
+	- [webCrawler] (#web-crawler)
+	- [gettextlist] (#gettextlist)
+	- [filecrawler] (#filecrawler)
+- [Necessary libraries] (#necessary-libraries)
+- [Short note about preprocessing each text] (#short-note-about-preprocessing-each-text)
+- [References] (#references)
 
 ## Short description
 
