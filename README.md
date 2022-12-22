@@ -4,14 +4,14 @@ This publication consists on the crawling pipeline developed during the course '
 
 ## Table of contents
 
-- [Short description] (https://github.com/robredomikel/basic-web-crawler#short-description)
-- [What each function does] (https://github.com/robredomikel/basic-web-crawler#what-each-function-does)
-	- [webCrawler] (https://github.com/robredomikel/basic-web-crawler#webcrawler)
-	- [gettextlist] (https://github.com/robredomikel/basic-web-crawler#gettextlist)
-	- [filecrawler] (https://github.com/robredomikel/basic-web-crawler#filecrawler)
-- [Necessary libraries] (https://github.com/robredomikel/basic-web-crawler#necessary-libraries)
-- [Short note about preprocessing each text] (https://github.com/robredomikel/basic-web-crawler#short-note-about-preprocessing-each-text)
-- [References] (https://github.com/robredomikel/basic-web-crawler#references)
+- [Short description] (#https://github.com/robredomikel/basic-web-crawler#short-description)
+- [What each function does] (#https://github.com/robredomikel/basic-web-crawler#what-each-function-does)
+	- [webCrawler] (#https://github.com/robredomikel/basic-web-crawler#webcrawler)
+	- [gettextlist] (#https://github.com/robredomikel/basic-web-crawler#gettextlist)
+	- [filecrawler] (#https://github.com/robredomikel/basic-web-crawler#filecrawler)
+- [Necessary libraries] (#https://github.com/robredomikel/basic-web-crawler#necessary-libraries)
+- [Short note about preprocessing each text] (#https://github.com/robredomikel/basic-web-crawler#short-note-about-preprocessing-each-text)
+- [References] (#https://github.com/robredomikel/basic-web-crawler#references)
 
 ## Short description
 
